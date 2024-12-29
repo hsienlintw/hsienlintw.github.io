@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>賓士貓 on newblog</title>
+    <link>https://hsienlintw.github.io/tags/%E8%B3%93%E5%A3%AB%E8%B2%93/</link>
+    <description>Recent content in 賓士貓 on newblog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 29 Dec 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://hsienlintw.github.io/tags/%E8%B3%93%E5%A3%AB%E8%B2%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>這是第1個測試網頁</title>
+      <link>https://hsienlintw.github.io/blog/test/</link>
+      <pubDate>Sun, 29 Dec 2024 10:07:47 +0800</pubDate>
+      <guid>https://hsienlintw.github.io/blog/test/</guid>
+      <description>&lt;p&gt;1.內文&#xA;我是賓士貓&lt;/p&gt;&#xA;&lt;p&gt;我在學codind&lt;/p&gt;&#xA;&lt;h1 id=&#34;標題一&#34;&gt;標題一&lt;/h1&gt;&#xA;&lt;h2 id=&#34;標題二&#34;&gt;標題二&lt;/h2&gt;&#xA;&lt;h3 id=&#34;標題三&#34;&gt;標題三&lt;/h3&gt;&#xA;&lt;p&gt;我是&lt;strong&gt;賓士貓&lt;/strong&gt; ，我在學&lt;em&gt;coding&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;賓&#xA;&lt;ol&gt;&#xA;&lt;li&gt;下一層(前面4個空白鍵)&lt;/li&gt;&#xA;&lt;li&gt;下一層2&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;士&lt;/li&gt;&#xA;&lt;li&gt;貓&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;賓&#xA;&lt;ul&gt;&#xA;&lt;li&gt;下一階層&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;士&lt;/li&gt;&#xA;&lt;li&gt;貓&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/hsienlintw&#34;&gt;我的帳號頁面&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
